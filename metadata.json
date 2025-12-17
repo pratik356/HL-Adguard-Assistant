@@ -1,0 +1,5 @@
+{
+  "name": "AdGuard AI",
+  "description": "A Google Ads compliance assistant powered by Gemini. Features password protection, chat history, and policy-compliant ad suggestions.",
+  "requestFramePermissions": []
+}
